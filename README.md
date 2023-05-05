@@ -18,3 +18,11 @@ I can also solve a 3x3 Rubik's cube in less than 20 seconds :)
 Nathcat/Nathcat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!--
+Hey, I'm Nathcat!
+
+I've been programming since 2016 when my Maths teacher made us learn Python on Codecademy, while the rest of the class lost interest, I fell in love with it.
+
+Since then I have been branching out into other languages and frameworks, I have a lot of experience in my own projects, my most recent one is MessageCat, a messaging application built for Android.
+-->
