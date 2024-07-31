@@ -5,7 +5,7 @@ Hey!<br>
 I've been programming since 2016. To me programming is more than just a means to an end, it's a part of who I am and I don't see myself ever becoming tired of that. The passion I have for my craft I put into every one of my projects.
 </p>
 
-[![Check out my website here!](!https://nathcat.net)
+[Check out my website here!](https://nathcat.net)
 
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Nathcat)
