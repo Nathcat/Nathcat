@@ -1,28 +1,28 @@
-Oh, well hello, I didn't see you there!
+<h1 align="center">Nathcat</h1>
 
-I'm Nathcat, I've been programming since I was eleven, when my maths teacher made the entire class start learning Python on Codecademy.
-While the rest of the class stopped doing this after a few terms, I was hooked after the first lesson and continued learning in my own time.
+<p align="center">
+Hey!<br>
+I've been programming since 2016. To me programming is more than just a means to an end, it's a part of who I am and I don't see myself ever becoming tired of that. The passion I have for my craft I put into every one of my projects.
+</p>
 
-At fourteen, I started branching out into other, more complex languages. Under the instruction of my computer science teacher at the time, I started learning Java.
-Over the multitude of Covid lockdowns, I have vastly improved my programming, probably because I had nothing else to do, so most of my free time, especially in
-between live lessons, was spent programming. More recently, I have started learning C, I'm getting better at C# for Unity development, and I have had some experience
-with HTML, CSS, Js, and PHP, although they are not exactly my strong points.
+[Check out my website here!](https://nathcat.net)
 
-My two main languages are Python and Java.
+### Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Nathcat)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Nathcat)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Nathcat)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Nathcat)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Nathcat)
 
-I can also solve a 3x3 Rubik's cube in less than 20 seconds :)
+### OS
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Nathcat/Nathcat)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Nathcat/Nathcat)
 
- - Nathcat :P
+### Details
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nathcat&theme=github_dark)
 
-<!---
-Nathcat/Nathcat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nathcat&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nathcat&theme=github_dark)
 
-<!--
-Hey, I'm Nathcat!
-
-I've been programming since 2016 when my Maths teacher made us learn Python on Codecademy, while the rest of the class lost interest, I fell in love with it.
-
-Since then I have been branching out into other languages and frameworks, I have a lot of experience in my own projects, my most recent one is MessageCat, a messaging application built for Android.
--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nathcat&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nathcat&theme=github_dark&utcOffset=8) 
