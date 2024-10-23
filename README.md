@@ -2,7 +2,7 @@
 
 <p align="center">
 Hey!<br>
-I've been programming since 2016. To me programming is more than just a means to an end, it's a part of who I am and I don't see myself ever becoming tired of that. The passion I have for my craft I put into every one of my projects.
+To me programming is more than just a means to an end, it's a part of who I am, and I don't see myself ever becoming tired of the feeling I get when I'm programming. I put the passion I feel for my craft into every one of my projects.
 </p>
 
 [Check out my website here!](https://nathcat.net)
